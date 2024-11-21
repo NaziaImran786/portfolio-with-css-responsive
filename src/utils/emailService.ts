@@ -1,5 +1,5 @@
 import emailjs from 'emailjs-com';
-import { tr } from 'framer-motion/client';
+
 
 export const sendEmail = async (templateParams: Record<string, string>) => {
    try {

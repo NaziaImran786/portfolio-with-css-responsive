@@ -3,7 +3,7 @@ import React from 'react'
 import styles from './AboutBottomSection.module.css'
 import Image from 'next/image'
 import {motion} from 'framer-motion'
-import { tr } from 'framer-motion/client'
+
 
 //parent section
 const containerVariants = {
